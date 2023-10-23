@@ -38,6 +38,10 @@ Now one of the important skills of a Data Engineer is the ability to automate pr
 And we used Data Factory for scheduling our pipeline to run midnight everyday, you could schedule as much as you want and for it to run as frequently as you like too.
 ![Screenshot (34)](https://github.com/MijanScripts/AZURE-END-TO-END-DATA-PIPELINE/assets/69738470/ba94ce22-cf8a-4ec8-83e0-734727412fde)
 
+## DATA GOVERNANCE AND SECURITY
+Azure Active Directory and Key Vaults were used for data security and governance, I made use of Secrets in Key Vault to hide important information like database passwords and tokens. Used Azure Active Directory to grant User roles to groups. 
+
+
 
 
 
